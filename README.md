@@ -7,6 +7,7 @@
 - PHP
 - MySQL
 - React
+- GIT
 
 ## Soft Skills ⬇
 
