@@ -1,15 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&lines=Desarrollador+Web+Trainee;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
-<!--
-**brindogabriel/brindogabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=00FF00&background=000000&center=true&vCenter=true&width=894&height=100&lines=Desarrollador+Web+Trainee)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## Conocimientos en
+- HTML
+- CSS
+- Javascript
+- PHP
+- MySQL
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Soft Skills
+
+- Autodicacta
+- Facilidad de adaptarme
+- Constante aprendizaje
