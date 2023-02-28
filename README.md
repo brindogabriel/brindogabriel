@@ -1,16 +1,29 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=00FF00&background=000000&center=true&vCenter=true&width=1024&height=100&lines=Desarrollador+Web+FullStack)](https://git.io/typing-svg)
+# Hola, soy un Full Stack Web Developer! 🚀
 
-## Conocimientos en ⬇
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
-- React
-- GIT
+Soy un apasionado del desarrollo web y me encanta crear soluciones innovadoras y escalables para resolver problemas. Aquí están algunas cosas que te pueden interesar sobre mí:
 
-## Soft Skills ⬇
+## 🔧 Lenguajes y herramientas
 
-- Autodicacta
-- Facilidad de adaptarme
-- Constante aprendizaje
+- HTML 🌐
+- CSS 🎨
+- JavaScript 🚀
+- PHP 🐘
+- MySQL 🗃️
+- React ⚛️ básico
+- Laravel 🚀 básico
+- Git 🌳
+
+## 🚀 Habilidades
+
+- Metodologías Ágiles: Scrum 🐱‍👤
+- Autodidacta 📚
+- Fácil adaptación 🤝
+- Proactividad 🔥
+
+## 📚 Aprendizaje constante
+
+Me encanta aprender nuevas tecnologías y herramientas para mejorar mi trabajo y brindar la mejor experiencia al usuario.
+
+## 🤝 ¿Quieres trabajar conmigo?
+
+Si necesitas un desarrollador web apasionado y motivado, contáctame! Estoy seguro de que juntos podemos hacer grandes cosas. ➡️ [Enlace a mi perfil de LinkedIn](https://www.linkedin.com/in/gabrielsebastianbrindo)
