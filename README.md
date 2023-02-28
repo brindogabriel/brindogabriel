@@ -1,6 +1,6 @@
 # Hola, soy un Full Stack Web Developer en búsqueda de mi primera experiencia laboral! 🚀
 
-Soy un apasionado del desarrollo web que busca su primer experiencia laboral, y me encanta crear soluciones innovadoras y escalables para resolver problemas. Aquí están algunas cosas que te pueden interesar sobre mí:
+Soy un apasionado del desarrollo web y me encanta crear soluciones innovadoras y escalables para resolver problemas. Aquí están algunas cosas que te pueden interesar sobre mí:
 
 ## 🔧 Lenguajes y herramientas
 
