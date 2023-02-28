@@ -26,4 +26,6 @@ Me encanta aprender nuevas tecnologías y herramientas para mejorar mi trabajo y
 
 ## 🤝 ¿Quieres trabajar conmigo?
 
-Si necesitas un desarrollador web apasionado y motivado, contáctame! Estoy seguro de que juntos podemos hacer grandes cosas. ➡️ [Enlace a mi perfil de LinkedIn](https://www.linkedin.com/in/gabrielsebastianbrindo)
+Si necesitas un desarrollador web apasionado y motivado, contáctame! Estoy seguro de que juntos podemos hacer grandes cosas. 
+
+### ➡️ [Enlace a mi perfil de LinkedIn](https://www.linkedin.com/in/gabrielsebastianbrindo)
