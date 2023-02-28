@@ -9,8 +9,8 @@ Soy un apasionado del desarrollo web y me encanta crear soluciones innovadoras y
 - JavaScript 🚀
 - PHP 🐘
 - MySQL 🗃️
-- React ⚛️ básico
-- Laravel 🚀 básico
+- React ⚛️ básico (aún aprendiendo)
+- Laravel 🚀 básico (aún aprendiendo)
 - Git 🌳
 - Bootstrap 🅱️
 
