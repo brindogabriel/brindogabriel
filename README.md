@@ -12,6 +12,7 @@ Soy un apasionado del desarrollo web y me encanta crear soluciones innovadoras y
 - React ⚛️ básico
 - Laravel 🚀 básico
 - Git 🌳
+- Bootstrap 🅱️
 
 ## 🚀 Habilidades
 
