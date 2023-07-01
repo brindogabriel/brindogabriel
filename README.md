@@ -13,6 +13,8 @@ Soy un apasionado del desarrollo web y me encanta crear soluciones innovadoras y
 - Laravel 🚀 básico (aún aprendiendo)
 - Git 🌳
 - Bootstrap 🅱️
+- TailwindCSS 🌀
+- NEXTJS 💥
 
 ## 🚀 Habilidades
 
