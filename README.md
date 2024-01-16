@@ -20,7 +20,6 @@ Soy un apasionado del desarrollo web y me encanta crear soluciones innovadoras y
 ## 🚀 Habilidades
 
 - Metodologías Ágiles: Scrum 🐱‍👤
-- Autodidacta 📚
 - Fácil adaptación 🤝
 - Proactividad 🔥
 
