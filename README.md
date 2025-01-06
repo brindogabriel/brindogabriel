@@ -1,56 +1,72 @@
-# Hola 👋🏻, soy un Desarrollador Web Full Stack 🚀
+# 👋🏻 Hola, soy un **Desarrollador Web Full Stack** 🚀
 
 Soy un apasionado del desarrollo web y me encanta crear soluciones innovadoras y escalables para resolver problemas. Acá hay algunas cosas que te pueden interesar sobre mí:
 
-## 🔧 Lenguajes y herramientas
+---
 
-- HTML 🌐
-- CSS 🎨
-- JavaScript 🚀
-- PHP 🐘
-- MySQL 🗃️
-- React ⚛️
-- Laravel 🚀
-- Git 🌳
-- Bootstrap 🅱️
-- TailwindCSS 🌀
-- NEXTJS 💥
-- SEO 🌟
+## 🔧 **Lenguajes y herramientas**
 
-## 🚀 Habilidades
+- **HTML** 🌐  
+- **CSS** 🎨  
+- **JavaScript** 🚀  
+- **PHP** 🐘  
+- **MySQL** 🗃️  
+- **React** ⚛️  
+- **Laravel** 🔥  
+- **Git** 🌳  
+- **Bootstrap** 🅱️  
+- **TailwindCSS** 🌀  
+- **NEXT.js** 💥  
+- **SEO** 🌟  
 
-- Desarrollo de e-commerce 🛒
-- Sistemas de administración 🔧
-- Metodologías Ágiles: Scrum 🐱‍👤
-- Fácil adaptación 🤝
+---
 
-## 📚 Aprendizaje constante
+## 🚀 **Habilidades**
 
-Me encanta aprender nuevas tecnologías y herramientas para mejorar mi trabajo y brindar la mejor experiencia al usuario. Actualmente, estoy cursando el curso de ingreso en la Universidad de La Matanza para la carrera de Ingeniería en Informática.
+- **Desarrollo de e-commerce** 🛒  
+- **Sistemas de administración** 🔧  
+- **Metodologías Ágiles: Scrum** 🐱‍👤  
+- **Fácil adaptación** 🤝  
 
-## 🌟 Proyectos Destacados
+---
 
-### E-commerce
-Desarrollé una plataforma de comercio electrónico completa, permitiendo a los usuarios comprar y vender productos con facilidad.
-  
-  ➡️ [CopyPast](https://www.copypast.com.ar)
+## 📚 **Aprendizaje constante**
 
-### Sistema de administración
-Creé un sistema de administración para una sociedad de fomento, facilitando la gestión de miembros y actividades.
- 
-  ➡️ [FomentAR](https://github.com/brindogabriel/FomentAR)
+Me encanta aprender nuevas tecnologías y herramientas para mejorar mi trabajo y brindar la mejor experiencia al usuario.
 
-## ⚽ Pasiones Personales
+---
 
-Además del desarrollo web, soy un gran aficionado al café y seguidor apasionado de Boca Juniors.
+## 🌟 **Proyectos Destacados**
 
-## 🤝 ¿Querés trabajar conmigo?
+### 🛒 **E-commerce**
+Desarrollé una plataforma de comercio electrónico completa, permitiendo a los usuarios comprar y vender productos con facilidad.  
 
-Si necesitas un desarrollador web apasionado y motivado, ¡contactame! Estoy seguro de que juntos podemos hacer grandes cosas.
+➡️ [**CopyPast**](https://www.copypast.com.ar)
 
-### ➡️ [Enlace a mi perfil de LinkedIn](https://www.linkedin.com/in/gabrielsebastianbrindo)
-### ➡️ [Visitá mi portafolio](https://www.gabrielbrindo.com.ar)
+### 🔧 **Sistema de administración**
+Creé un sistema de administración para una sociedad de fomento, facilitando la gestión de miembros y actividades.  
 
-## 📬 Contacto
+➡️ [**FomentAR**](https://github.com/brindogabriel/FomentAR)
 
-Podés enviarme un email a: gabrielbrindo18@gmail.com
+---
+
+## ⚽ **Pasiones Personales**
+
+Además del desarrollo web:  
+- Soy un gran aficionado al **café ☕**  
+- Hincha apasionado de **Boca Juniors ⚽**  
+
+---
+
+## 🤝 **¿Querés trabajar conmigo?**
+
+Si necesitás un desarrollador web apasionado y motivado, **¡contactame!** Estoy seguro de que juntos podemos hacer grandes cosas.  
+
+### 🔗 [Enlace a mi perfil de LinkedIn](https://www.linkedin.com/in/gabrielsebastianbrindo)  
+### 🌐 [Visitá mi portafolio](https://www.gabrielbrindo.com.ar)
+
+---
+
+## 📬 **Contacto**
+
+✉️ **Email:** [gabrielbrindo18@gmail.com](mailto:gabrielbrindo18@gmail.com)  
