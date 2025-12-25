@@ -1,72 +1,78 @@
-# 👋🏻 Hola, soy un **Desarrollador Web Full Stack** 🚀
+# 👋 Gabriel Sebastian Brindo  
+## Desarrollador Web Full Stack
 
-Soy un apasionado del desarrollo web y me encanta crear soluciones innovadoras y escalables para resolver problemas. Acá hay algunas cosas que te pueden interesar sobre mí:
+Desarrollador web enfocado en la creación de aplicaciones modernas, escalables y orientadas a resolver problemas reales.  
+Experiencia práctica en proyectos reales, con fuerte interés en frontend y ecosistemas React / Next.js.
 
----
-
-## 🔧 **Lenguajes y herramientas**
-
-- **HTML** 🌐  
-- **CSS** 🎨  
-- **JavaScript** 🚀  
-- **PHP** 🐘  
-- **MySQL** 🗃️  
-- **React** ⚛️  
-- **Laravel** 🔥  
-- **Git** 🌳  
-- **Bootstrap** 🅱️  
-- **TailwindCSS** 🌀  
-- **NEXT.js** 💥  
-- **SEO** 🌟  
+🎯 **Objetivo profesional:** incorporarme como desarrollador frontend o full stack junior, aportando valor desde el primer día y continuando mi crecimiento técnico.
 
 ---
 
-## 🚀 **Habilidades**
+## 🛠️ Tecnologías
 
-- **Desarrollo de e-commerce** 🛒  
-- **Sistemas de administración** 🔧  
-- **Metodologías Ágiles: Scrum** 🐱‍👤  
-- **Fácil adaptación** 🤝  
+**Frontend**
+- HTML, CSS, JavaScript  
+- React, Next.js  
+- Tailwind CSS, Bootstrap  
 
----
+**Backend**
+- PHP, Laravel  
+- MySQL  
 
-## 📚 **Aprendizaje constante**
-
-Me encanta aprender nuevas tecnologías y herramientas para mejorar mi trabajo y brindar la mejor experiencia al usuario.
-
----
-
-## 🌟 **Proyectos Destacados**
-
-### 🛒 **E-commerce**
-Desarrollé una plataforma de comercio electrónico completa, permitiendo a los usuarios comprar y vender productos con facilidad.  
-
-➡️ [**CopyPast**](https://www.copypast.com.ar)
-
-### 🔧 **Sistema de administración**
-Creé un sistema de administración para una sociedad de fomento, facilitando la gestión de miembros y actividades.  
-
-➡️ [**FomentAR**](https://github.com/brindogabriel/FomentAR)
+**Herramientas**
+- Git, GitHub  
+- Metodologías ágiles (Scrum)  
+- SEO básico  
 
 ---
 
-## ⚽ **Pasiones Personales**
+## 🤖 Herramientas & IA
 
-Además del desarrollo web:  
-- Soy un gran aficionado al **café ☕**  
-- Hincha apasionado de **Boca Juniors ⚽**  
-
----
-
-## 🤝 **¿Querés trabajar conmigo?**
-
-Si necesitás un desarrollador web apasionado y motivado, **¡contactame!** Estoy seguro de que juntos podemos hacer grandes cosas.  
-
-### 🔗 [Enlace a mi perfil de LinkedIn](https://www.linkedin.com/in/gabrielsebastianbrindo)  
-### 🌐 [Visitá mi portafolio](https://www.gabrielbrindo.com.ar)
+- **ChatGPT**: análisis de requerimientos, generación y refactorización de código, debugging
+- **GitHub Copilot**: asistencia en desarrollo y productividad
+- Uso de IA como apoyo para aprendizaje continuo y optimización de soluciones
 
 ---
 
-## 📬 **Contacto**
+## 🚀 Habilidades Clave
 
-✉️ **Email:** [gabrielbrindo18@gmail.com](mailto:gabrielbrindo18@gmail.com)  
+- Desarrollo de aplicaciones web full stack
+- Integración frontend–backend
+- Diseño de interfaces modernas y responsivas
+- Desarrollo de sistemas de gestión y e-commerce
+- Trabajo organizado bajo metodologías ágiles
+
+---
+
+## 🌟 Proyectos Destacados
+
+### 🛒 E-commerce – CopyPast
+Plataforma de comercio electrónico completa, con gestión de productos y experiencia de compra optimizada.
+
+🔗 https://www.copypast.com.ar
+
+---
+
+### 🔧 Sistema de Administración – FomentAR
+Sistema de gestión para una sociedad de fomento.  
+Incluye CRUD de socios, categorías, actividades y eventos.
+
+🔗 https://github.com/brindogabriel/FomentAR
+
+---
+
+## 📚 Aprendizaje Continuo
+
+Me mantengo en constante formación, incorporando nuevas tecnologías y herramientas para mejorar la calidad del software y la experiencia del usuario.
+
+---
+
+## 📬 Contacto
+
+- 📧 Email: **gabrielbrindo18@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/gabrielsebastianbrindo  
+- 🌐 Portfolio: https://www.gabrielbrindo.com.ar  
+
+---
+
+☕ Fan del café | ⚽ Hincha de Boca Juniors
