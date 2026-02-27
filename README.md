@@ -1,11 +1,11 @@
 # 👋 Gabriel Sebastian Brindo  
-## 🚀 Frontend-Oriented Full Stack Developer  
+## 🚀 Full Stack Developer
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,laravel,php,mysql,git" />
 </p>
 
-Desarrollador Full Stack con fuerte orientación a frontend.  
+Desarrollador Full Stack.  
 Construyo aplicaciones modernas con React / Next.js y backend en Laravel bajo arquitectura API REST.  
 Enfocado en código limpio, escalabilidad y experiencia de usuario.
 
