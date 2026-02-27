@@ -1,78 +1,110 @@
 # 👋 Gabriel Sebastian Brindo  
-## Desarrollador Web Full Stack
+## 🚀 Frontend-Oriented Full Stack Developer  
 
-Desarrollador web enfocado en la creación de aplicaciones modernas, escalables y orientadas a resolver problemas reales.  
-Experiencia práctica en proyectos reales, con fuerte interés en frontend y ecosistemas React / Next.js.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,laravel,php,mysql,git" />
+</p>
 
-🎯 **Objetivo profesional:** incorporarme como desarrollador frontend o full stack junior, aportando valor desde el primer día y continuando mi crecimiento técnico.
+Desarrollador Full Stack con fuerte orientación a frontend.  
+Construyo aplicaciones modernas con React / Next.js y backend en Laravel bajo arquitectura API REST.  
+Enfocado en código limpio, escalabilidad y experiencia de usuario.
 
----
-
-## 🛠️ Tecnologías
-
-**Frontend**
-- HTML, CSS, JavaScript  
-- React, Next.js  
-- Tailwind CSS, Bootstrap  
-
-**Backend**
-- PHP, Laravel  
-- MySQL  
-
-**Herramientas**
-- Git, GitHub  
-- Metodologías ágiles (Scrum)  
-- SEO básico  
+🎯 **Buscando mi primera oportunidad como Full Stack Developer Junior.**
 
 ---
 
-## 🤖 Herramientas & IA
+## 🧠 Stack Principal
 
-- **ChatGPT**: análisis de requerimientos, generación y refactorización de código, debugging
-- **GitHub Copilot**: asistencia en desarrollo y productividad
-- Uso de IA como apoyo para aprendizaje continuo y optimización de soluciones
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+</p>
+
+### 🛠️ Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## 🚀 Habilidades Clave
+## 🔥 Actualmente trabajando en
 
-- Desarrollo de aplicaciones web full stack
-- Integración frontend–backend
-- Diseño de interfaces modernas y responsivas
-- Desarrollo de sistemas de gestión y e-commerce
-- Trabajo organizado bajo metodologías ágiles
+- Arquitectura API REST (Laravel + Next.js)  
+- Autenticación basada en cookies + protección CSRF  
+- Integración OAuth (Google)  
+- Optimización de performance y buenas prácticas  
 
 ---
 
 ## 🌟 Proyectos Destacados
 
-### 🛒 E-commerce – CopyPast
-Plataforma de comercio electrónico completa, con gestión de productos y experiencia de compra optimizada.
+### 🧠 PsicoAgenda (En desarrollo)
+Sistema de gestión de turnos para profesionales de la salud mental.  
+Incluye autenticación, gestión de pacientes, calendario y sincronización con Google Calendar mediante OAuth.
 
-🔗 https://www.copypast.com.ar
+🔗 https://github.com/brindogabriel/PsicoAgenda
 
 ---
 
-### 🔧 Sistema de Administración – FomentAR
-Sistema de gestión para una sociedad de fomento.  
+### ⚙️ Laravel + Next.js Starter Template
+Plantilla base con Laravel Breeze (API) + Next.js.  
+Incluye autenticación con cookies, protección CSRF y estructura preparada para entornos productivos.
+
+🔗 https://github.com/brindogabriel/LaravelBreezeApi-NextJS  
+
+---
+
+### 🛒 E-commerce – CopyPast  
+Plataforma de comercio electrónico con gestión de productos, carrito y experiencia de compra optimizada.
+
+🔗 https://www.copypast.com.ar  
+
+---
+
+### 🔧 Sistema de Gestión – FomentAR  
+Sistema administrativo para sociedad de fomento.  
 Incluye CRUD de socios, categorías, actividades y eventos.
 
-🔗 https://github.com/brindogabriel/FomentAR
+🔗 https://github.com/brindogabriel/FomentAR  
 
 ---
 
-## 📚 Aprendizaje Continuo
+## 📊 GitHub Stats
 
-Me mantengo en constante formación, incorporando nuevas tecnologías y herramientas para mejorar la calidad del software y la experiencia del usuario.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brindogabriel&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brindogabriel&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brindogabriel&theme=tokyonight" />
+</p>
+
+---
+
+## 🤖 Trabajo con IA
+
+Utilizo IA como herramienta estratégica para:
+
+- Análisis de requerimientos  
+- Refactorización y mejora de código  
+- Debugging  
+- Optimización de procesos  
+- Aprendizaje continuo  
 
 ---
 
 ## 📬 Contacto
 
-- 📧 Email: **gabrielbrindo18@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/gabrielsebastianbrindo  
-- 🌐 Portfolio: https://www.gabrielbrindo.com.ar  
+- 📧 **gabrielbrindo18@gmail.com**  
+- 💼 https://www.linkedin.com/in/gabrielsebastianbrindo  
+- 🌐 https://www.gabrielbrindo.com.ar  
 
 ---
 
-☕ Fan del café | ⚽ Hincha de Boca Juniors
+☕ Café | ⚽ Boca | 💻 Código limpio
